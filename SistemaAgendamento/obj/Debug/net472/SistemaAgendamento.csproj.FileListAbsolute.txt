@@ -1,0 +1,11 @@
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net472\SistemaAgendamento.exe.config
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net472\SistemaAgendamento.exe
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net472\SistemaAgendamento.pdb
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net472\SistemaAgendamento.csproj.AssemblyReference.cache
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net472\SistemaAgendamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net472\SistemaAgendamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net472\SistemaAgendamento.AssemblyInfoInputs.cache
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net472\SistemaAgendamento.AssemblyInfo.cs
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net472\SistemaAgendamento.csproj.CoreCompileInputs.cache
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net472\SistemaAgendamento.exe
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net472\SistemaAgendamento.pdb

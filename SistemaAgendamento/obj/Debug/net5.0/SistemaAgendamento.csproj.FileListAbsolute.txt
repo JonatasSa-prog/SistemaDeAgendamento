@@ -1,0 +1,32 @@
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.exe
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.deps.json
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.runtimeconfig.json
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.runtimeconfig.dev.json
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.dll
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\ref\SistemaAgendamento.dll
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.pdb
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.csproj.AssemblyReference.cache
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.AssemblyInfoInputs.cache
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.AssemblyInfo.cs
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.dll
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\ref\SistemaAgendamento.dll
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.pdb
+C:\Users\Jonatas.Santos\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.genruntimeconfig.cache
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.exe
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.deps.json
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.runtimeconfig.json
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.runtimeconfig.dev.json
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.dll
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\ref\SistemaAgendamento.dll
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\bin\Debug\net5.0\SistemaAgendamento.pdb
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.csproj.AssemblyReference.cache
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.AssemblyInfoInputs.cache
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.AssemblyInfo.cs
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.csproj.CoreCompileInputs.cache
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.dll
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\ref\SistemaAgendamento.dll
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.pdb
+C:\Users\jonatas santos sá\Desktop\Sistema de Agendamento\SistemaAgendamento\SistemaAgendamento\obj\Debug\net5.0\SistemaAgendamento.genruntimeconfig.cache
